@@ -5,12 +5,11 @@
 
 This project contains the code to train a diffusion model for Biomaterial Discovery. It includes a PyTorch implementation of the U-Net model, several building blocks used in the model architecture, and scripts for training and logging.
 
-### Generated One-by-One Biomaterial after 32_000 Epochs
+### Real One-by-One Biomaterial Designs 
+<img width="858" alt="Screenshot 2024-04-09 at 23 58 43" src="https://github.com/Karthi-DStech/Denoising-Diffusion-Probablistic-Models-for-Biomaterial-Discovery/assets/126179797/ef9ab757-0b23-488a-aabf-f258ad57ae93">
 
-
-
-### Generated One-by-One Gradient Applied Biomaterial after 32_000 Epochs
-
+### Generated One-by-One Biomaterial Designs after 30_000 Epochs
+![samples_epoch_30000](https://github.com/Karthi-DStech/Denoising-Diffusion-Probablistic-Models-for-Biomaterial-Discovery/assets/126179797/19a1da91-ecbc-4b62-a154-933a21cf989c)
 
 
 
