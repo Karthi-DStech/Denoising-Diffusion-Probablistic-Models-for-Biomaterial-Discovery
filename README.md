@@ -1,10 +1,9 @@
 # Denoising-Diffusion-Probablistic-Models-for-Biomaterial-Discovery
 
-# Denoising Diffusion Probablistic Models - DDPM
 
 **Diffusion Model Training for Image Generation using Mnist Dataset**
 
-This project contains the code necessary to train a diffusion model for Biomaterial Discovery. It includes a PyTorch implementation of the U-Net model, several building blocks used in the model architecture, and scripts for training and logging.
+This project contains the code to train a diffusion model for Biomaterial Discovery. It includes a PyTorch implementation of the U-Net model, several building blocks used in the model architecture, and scripts for training and logging.
 
 ### Generated One-by-One Biomaterial after 32_000 Epochs
 
