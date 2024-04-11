@@ -82,7 +82,7 @@ for epoch in tqdm(range(args.epochs)):
         plt.savefig('training_loss_cropped.png')
         plt.close()
 
-    # Every 1000 epochs, log generated and real images
+    # Every 4000 epochs, log generated and real images
     if epoch % 4000 == 0:
         samples = diffusion_model.sampling(n_samples=args.nb_images, use_tqdm=False)
 
