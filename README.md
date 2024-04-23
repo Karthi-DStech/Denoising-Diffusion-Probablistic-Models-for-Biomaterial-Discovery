@@ -1,9 +1,10 @@
 # Denoising-Diffusion-Probablistic-Models-for-Biomaterial-Discovery
 
-
 **Diffusion Model Training for Image Generation using Biomaterial Topography Dataset**
 
 This project contains the code to train a diffusion model for Biomaterial Discovery. It includes a PyTorch implementation of the U-Net model, several building blocks used in the model architecture, and scripts for training and logging.
+
+**The Generated images can be found in the `Generated Images/` folder. Currently, this repo holds the DDPM generated images of 32X32 and 64X64 pixel resolution topographies.**
 
 ### Real One-by-One Biomaterial Designs 
 <img width="720" alt="Screenshot 2024-04-10 at 00 01 35" src="https://github.com/Karthi-DStech/Denoising-Diffusion-Probablistic-Models-for-Biomaterial-Discovery/assets/126179797/59a4b73d-5917-4180-8980-cafec56d43c1">
@@ -50,11 +51,12 @@ Install the necessary packages using pip:
 
 ### Dataset
 
-The training scripts are set up to use the Biomaterial dataset with 2176 Samples, which is loaded from the local machine. If you wish to use a different dataset, you'll need to modify the `images_utils.py` file and potentially the training scripts to handle your dataset's loading and processing.
+The training scripts are set up to use the Biomaterial dataset with 2176 Samples, which are loaded from the local machine. If you wish to use a different dataset, you'll need to modify the `images_utils.py` file and potentially the training scripts to handle your dataset's loading and processing.
 
 ### Models Saving
 
 The trained models are saved to the disk every 4000 epochs by default. You can change this frequency in the training scripts and the saving frequency will depend upon the scripts (explore train.py and updated_train.py).
 
+### Still working 
 
 
