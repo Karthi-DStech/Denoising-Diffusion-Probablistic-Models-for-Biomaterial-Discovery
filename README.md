@@ -57,6 +57,6 @@ The training scripts are set up to use the Biomaterial dataset with 2176 Samples
 
 The trained models are saved to the disk every 4000 epochs by default. You can change this frequency in the training scripts and the saving frequency will depend upon the scripts (explore train.py and updated_train.py).
 
-### Still working 
+### Work in Progress -> 128X128 Resolution and Hyperparameter Tuning📌
 
 
