@@ -6,13 +6,10 @@ This project contains the code to train a diffusion model for Biomaterial Discov
 
 **The Generated images can be found in the `Generated Image/` folder. Currently, this repo holds the DDPM-generated images of 32X32 and 64X64 pixel resolution topographies.**
 
-### Real One-by-One Biomaterial Designs 
-<img width="720" alt="Screenshot 2024-04-10 at 00 01 35" src="https://github.com/Karthi-DStech/Denoising-Diffusion-Probablistic-Models-for-Biomaterial-Discovery/assets/126179797/59a4b73d-5917-4180-8980-cafec56d43c1">
 
+### Generated One-by-One Biomaterial Designs after 40_000 Epochs
 
-### Generated One-by-One Biomaterial Designs after 30_000 Epochs
-<img width="766" alt="Screenshot 2024-04-10 at 00 00 16" src="https://github.com/Karthi-DStech/Denoising-Diffusion-Probablistic-Models-for-Biomaterial-Discovery/assets/126179797/83c0f320-e92f-4552-84da-826c4ad8ff0d">
-
+![image](https://github.com/Karthi-DStech/Denoising-Diffusion-Probablistic-Models-for-Biomaterial-Discovery/assets/126179797/7515456e-09cf-48ac-9c30-882b2dfc95a8)
 
 
 
